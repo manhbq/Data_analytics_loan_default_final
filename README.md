@@ -1,5 +1,5 @@
 # Data_analytics_Loan_default
-Final_project_dataK7
+Final_project_coding_mentor
 
 Files included:
 01 Tableau file visualising the data analysed.
@@ -37,4 +37,3 @@ Borrowers prefer open-end credit because it gives them greater control over the 
 5. How to calculate the bank's profits/losses within a year?
 Profits = Sum(Loan amount * Interest rate spread + Upfront charges)
 Losses = Sum(Loan default * Interest rate spread)
-![image](https://github.com/manhbq/Data_analytics_loan_default_final/assets/120698495/3ebde9cc-0650-4b56-8977-8055eae54801)
