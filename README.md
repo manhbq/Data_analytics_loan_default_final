@@ -8,7 +8,7 @@ Files included:
 
 OVERVIEWS: 
 1. About the dataset:
-1.1. This is a dataset about lending operation of a bank in India (source: Kaggle.com)
+1.1. This is a dataset about lending operation of a bank in India in 2019 (source: Kaggle.com)
 1.2. The dataset (after cleaning) includes 45915 rows and 34 columns (25 dimensions and 9 measures)
    
 2. How the raw dataset is cleaned:
